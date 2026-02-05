@@ -1,6 +1,3 @@
-Voici le contenu structuré pour ton projet CFD, prêt à être copié-collé dans un fichier README.md.
-
-Markdown
 # CFD Pulsatile Flow Simulation (ANSYS Fluent UDF)
 
 ## 📌 Project Overview
